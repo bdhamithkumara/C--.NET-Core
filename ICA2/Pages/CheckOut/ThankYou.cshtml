@@ -1,0 +1,16 @@
+﻿@page
+@model ICA2.Pages.CheckOut.ThankYouModel
+@{
+}
+
+<div class="text-center">
+    <h1>Order Completion</h1>
+
+    <div class="text-center">
+        <p>pizza name is @Model.pizzaname,</p>
+        <p>Total price for your is: @Model.PizzaPrice $</p>
+
+        <a class="btn btn-danger" asp-area="" asp-page="Index">Thank you for your order</a>
+    </div>
+
+</div>

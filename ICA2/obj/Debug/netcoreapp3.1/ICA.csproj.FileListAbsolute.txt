@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA.AssemblyInfo.cs
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA.dll
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA.pdb
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA.csproj.AssemblyReference.cache

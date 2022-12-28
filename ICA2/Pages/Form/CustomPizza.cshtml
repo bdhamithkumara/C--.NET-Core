@@ -1,0 +1,36 @@
+﻿@page
+@model ICA2.Pages.Form.CustomPizzaModel
+@{
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="text-center">
+    <h1>Create Your Own Pizza!</h1>
+
+    <br/>
+
+    <form method="POST">
+        <input type="text" placeholder="Give your pizza a Name.."  asp-for="Pizaa.pizzaname"/><br />
+        <input type="checkbox" asp-for="Pizaa.TomatoSauce"/>Tomato Sauce<br />
+        <input type="checkbox" asp-for="Pizaa.Cheese"/>Cheese<br />
+        <input type="checkbox" asp-for="Pizaa.Peperoni"/>Peperoni<br />
+        <input type="checkbox" asp-for="Pizaa.Mushroom"/>Mushroom<br />
+        <input type="checkbox" asp-for="Pizaa.Tuna"/>Tuna<br />
+        <input type="checkbox" asp-for="Pizaa.Pineapple"/>Pineapple<br />
+        <input type="checkbox" asp-for="Pizaa.Ham"/>Ham<br />
+        <input type="checkbox" asp-for="Pizaa.Beef"/>Beef<br />
+        <button type="submit" class="btn btn-primary mt-2">Order My Pizza</button>
+    </form>
+
+</div>

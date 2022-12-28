@@ -1,0 +1,82 @@
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\bin\Debug\netcoreapp3.1\ICA2.exe
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\bin\Debug\netcoreapp3.1\ICA2.deps.json
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\bin\Debug\netcoreapp3.1\ICA2.runtimeconfig.json
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\bin\Debug\netcoreapp3.1\ICA2.runtimeconfig.dev.json
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\bin\Debug\netcoreapp3.1\ICA2.dll
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\bin\Debug\netcoreapp3.1\ICA2.pdb
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\bin\Debug\netcoreapp3.1\ICA2.Views.dll
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\bin\Debug\netcoreapp3.1\ICA2.Views.pdb
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA2.AssemblyInfo.cs
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA2.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA2.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\staticwebassets\ICA2.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\staticwebassets\ICA2.StaticWebAssets.xml
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\scopedcss\bundle\ICA2.styles.css
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA2.TagHelpers.input.cache
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA2.TagHelpers.output.cache
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA2.RazorCoreGenerate.cache
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA2.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA2.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA2.Views.pdb
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA2.dll
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA2.pdb
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA2.genruntimeconfig.cache
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\ICA2.csproj.CopyComplete
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\Razor\Pages\Pizzas.cshtml.g.cs
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\Razor\Pages\Form\CustomPizza.cshtml.g.cs
+C:\Users\User\Desktop\ICA2\ICA2\ICA2\obj\Debug\netcoreapp3.1\Razor\Pages\CheckOut\ThankYou.cshtml.g.cs
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\bin\Debug\netcoreapp3.1\ICA2.exe
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\bin\Debug\netcoreapp3.1\ICA2.deps.json
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\bin\Debug\netcoreapp3.1\ICA2.runtimeconfig.json
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\bin\Debug\netcoreapp3.1\ICA2.runtimeconfig.dev.json
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\bin\Debug\netcoreapp3.1\ICA2.dll
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\bin\Debug\netcoreapp3.1\ICA2.pdb
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\bin\Debug\netcoreapp3.1\ICA2.Views.dll
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\bin\Debug\netcoreapp3.1\ICA2.Views.pdb
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\ICA2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\ICA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\ICA2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\ICA2.AssemblyInfo.cs
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\ICA2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\ICA2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\ICA2.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\ICA2.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\staticwebassets\ICA2.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\staticwebassets\ICA2.StaticWebAssets.xml
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\scopedcss\bundle\ICA2.styles.css
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\ICA2.TagHelpers.input.cache
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\ICA2.TagHelpers.output.cache
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\ICA2.RazorCoreGenerate.cache
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\Razor\Pages\CheckOut\ThankYou.cshtml.g.cs
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\Razor\Pages\Form\CustomPizza.cshtml.g.cs
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\Razor\Pages\Pizzas.cshtml.g.cs
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\ICA2.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\ICA2.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\ICA2.Views.pdb
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\ICA2.dll
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\ICA2.pdb
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\ICA2.genruntimeconfig.cache
+C:\Users\User\Desktop\exam practice\2017ICTS07\2017ICTS07\ICA2\obj\Debug\netcoreapp3.1\ICA2.csproj.CopyComplete
